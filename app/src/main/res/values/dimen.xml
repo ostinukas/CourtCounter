@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop">24dp</dimen>
+    <dimen name="marginBottom">24dp</dimen>
+    <dimen name="marginLeft">24dp</dimen>
+    <dimen name="marginRight">24dp</dimen>
+    <dimen name="margin_main">24dp</dimen>
+    <dimen name="marginLeftLand">24dp</dimen>
+    <dimen name="marginRightLand">24dp</dimen>
+    <dimen name="marginLeftLandBottom">50dp</dimen>
+    <dimen name="marginRightLandBottom">50dp</dimen>
+    <dimen name="marginLandBottom">50dp</dimen>
+    <dimen name="textMed">28sp</dimen>
+    <dimen name="textBig">56sp</dimen>
+    <dimen name="textSmall">14sp</dimen>
+</resources>

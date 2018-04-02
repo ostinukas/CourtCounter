@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soccer game tracker</string>
+    <string name="tSa">0</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="goal">Goal</string>
+    <string name="foul">Foul</string>
+    <string name="corner">Corner</string>
+    <string name="reset">Reset</string>
+    <string name="initialValue">0</string>
+
+
+    </resources>
